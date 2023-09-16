@@ -19,3 +19,4 @@ This is a JavaScript project that creates a notes application. The application a
 3. Use the application to create, view, update, or delete notes.
 
 ##url
+https://anupam-singh88.github.io/notes-app/
